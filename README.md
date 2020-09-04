@@ -3,6 +3,7 @@ Data Scientists and statisticians have recently become one of the most fast grow
 
 ## Code and Resouces Used
 **Python Version**: 3.7
+
 **Packages**: selenium, BeautifulSoup, pandas, nltk
 
 ## Web Scraping
