@@ -9,6 +9,8 @@ Data Scientists and statisticians have recently become one of the most fast grow
 - Besides the hard skills, being able to communicate well with data using presentation is also highly valued in data scientist jobs.
 
 ## Word Cloud
+The image below is the word cloud generated from my result:
+![image](WordCloud.png)
 
 
 **Please check *Web_Scraping_Indeed_Data_Science.ipynb* for the complete project.**
